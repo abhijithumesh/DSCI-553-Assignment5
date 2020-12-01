@@ -1,0 +1,1 @@
+java -cp $ASNLIB/publicdata/generate_stream.jar StreamSimulation $ASNLIB/publicdata/business.json 9999 100 > /dev/null
